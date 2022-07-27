@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+
+	<AddIn Type="Application">
+
+		<Name>ReviplanApi</Name>
+
+		<FullClassName>Revitgridpulgin.Application</FullClassName>
+
+		<Text>RevitPlanMaker</Text>
+
+		<Description>Help You to make all plan in all level in just few seconds</Description>
+
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+
+		<Assembly>Revitgridpulgin.dll</Assembly>
+
+		<AddInId>
+			E946382D-4DBD-4F2B-9C6F-21C2B98CBA8B
+		</AddInId>
+
+		<VendorId>Mahmoud Shaddad</VendorId>
+
+		<VendorDescription>Mahmoud Shaddad, Bauinformatiker </VendorDescription>
+
+	</AddIn>
+
+</RevitAddIns>
