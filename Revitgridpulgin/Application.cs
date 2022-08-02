@@ -21,7 +21,7 @@ namespace Revitgridpulgin
 
 
 
-        #region from Youtube 
+        #region the Ribbon Pannel
       
             const string ribbon_tab = "PlanMacher";
             const string ribbon_Pannel = "Create a Gird";
